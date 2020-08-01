@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "myproject",
-    "slug": "myproject",
+    "name": "myproject2",
+    "slug": "myproject2",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -23,7 +23,7 @@
       "favicon": "./assets/favicon.png"
     },
     "android": {
-      "package": "todoapp.myfirstapp"
+      "package": "com.devprateek06.myproject2"
     }
   }
 }
